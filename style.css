@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: green;
+    height: 80px;
+    overflow: hidden;
+}
+
+.logo a {
+    margin-left: 50px;
+    margin-top: 13px;
+    float: left;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.logo a:hover {
+    color: bisque;
+}
+
+.login a:hover {
+    color: black;
+}
+
+.login a {
+    margin-right: 40px;
+    margin-top: 25px;
+    float: right;
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    float: left;
+    height: 1000px;
+    width: 15%;
+    background-color: brown;
+    color: white;
+}
+
+nav a {
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: block;
+    font-size: 1.5em;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav a:hover {
+    color: white;
+}
+
+aside {
+    text-align: center;
+    float: right;
+    background-color: brown;
+    width: 20%;
+    height: 1000px;
+}
+
+article h5 {
+    color: black;
+    margin: 5px;
+    text-
+}
+
+main {
+    background-color: beige;
+    width: 65%;
+    height: 1000px;
+    float: left;
+}
+
+footer {
+    background-color: green;
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+footer a:hover {
+    color: beige;
+}
+
+.f-Rside {
+    /* background-color: aquamarine; */
+    margin-right: 40%;
+    float: right;
+}
+
+.f-Lside {
+    /* background-color: aquamarine; */
+    margin-left: 25%;
+    float: left;
+}
