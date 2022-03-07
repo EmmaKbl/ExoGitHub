@@ -12,16 +12,16 @@ header {
 
 .logo a {
     margin-left: 50px;
-    margin-top: 13px;
+    margin-top: 8px;
     float: left;
-    color: white;
+    color: #1E387B;
     text-decoration: none;
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 .logo a:hover {
-    color: bisque;
+    color: white;
 }
 
 .login a:hover {
@@ -116,4 +116,16 @@ footer a:hover {
 
 .fa-facebook-f {
     color: #2FC2E2;
+}
+
+.fa-instagram-square {
+    color: #CA3CA2;
+}
+
+.fa-twitter {
+    color: #00B6F1;
+}
+
+.fa-linkedin-in {
+    color: #0077B5;
 }
